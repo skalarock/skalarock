@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-skali%C4%8Dan/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SkalaRock)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodonczech.cz/@skalarock)
 
 <!--
 **skalarock/skalarock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
