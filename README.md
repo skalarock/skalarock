@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-skalican/)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodonczech.cz/@skalarock)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/dominik-skalican/)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](https://mastodonczech.cz/@skalarock)
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](https://codeberg.org/skalarock)
 
 <!--
